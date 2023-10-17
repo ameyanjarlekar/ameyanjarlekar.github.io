@@ -15,7 +15,7 @@ redirect_from:
 * My research interests lie in the intersection of privacy-preserving machine learning and game theory. In particular, I am interested in understanding the impact of privacy-preserving techniques on the performance of machine learning models. Moreover, I am also interested in understanding the theoretical interpretations of machine learning models. Before my PhD, I had worked in compressed sensing and radar signal processing.
 
 # Updates
-* <b>August, 2022:</b> Started working as a PhD student at the University of Illinois at Urbana Champaign
+* <b>August, 2022:</b> Started my journey as a PhD student at the University of Illinois at Urbana Champaign
 * <b>June, 2021:</b> Started working as a Quantitative Researcher in the High Frequency Equities team at Quadeye Securities.
 * <b>August, 2020:</b> Received the Institute Technical Special Mention for contributing to the technical sphere of IIT Bombay through my affiliation with the IITB Mars Rover Team 
 * <b>March, 2020:</b> Journal paper titled ["Generalized Fractional Ambiguity Function and Its Applications"](http://ameyanjarlekar.github.io/files/GFAF.pdf) was accepted to Circuits, Systems and Signal Processing, Springer [(CSSP)](https://www.springer.com/journal/34).
