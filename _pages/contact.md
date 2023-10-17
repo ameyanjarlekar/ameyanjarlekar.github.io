@@ -10,16 +10,12 @@ Here are the links to the major projects I have undertaken. Click on the title f
 <img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="300" height="150">
 <br>
 <b> [Compressive Sensing Matrix Design](https://docs.google.com/presentation/d/1Eght44a12nbU_SFre9YcH2sVNxhyWKRb/edit?usp=sharing&ouid=110561627402890189556&rtpof=true&sd=true)</b> <br>
- Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle rotation and scaling of images. 
+ Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle the rotation and scaling of images. 
 
+<img src="https://ameyanjarlekar.github.io/files/vid1.PNG" width="300" height="150">
 <br>
 <b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1hdJD4Gwf44TlYnsd47t0GMkMeT7G1dl9MJl6wMYlzRo/edit?usp=sharing)</b> <br>
-Video Compression algorithm specifically for Daikin video-database. Uses a Hitomi Camera architecture inspired compressed sensing algorithm.
-
- 
-<br>
-<b>[Blind Compressed Sensing](https://ameyanjarlekar.github.io/files/BCS.pdf)</b> <br> 
-A review of various theoretical results of Blind Compressed Sensing and implementation of the corresponding algorithm for joint estimation of dictionary and images. Detailed mathematical analysis can be found <b>[here](https://ameyanjarlekar.github.io/files/Mathematical_analysis.pdf)</b>.
+Video Compression algorithm specifically for Daikin video database. Uses a Hitomi Camera architecture-inspired compressed sensing algorithm.
 
 <br>
 <b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
