@@ -7,13 +7,13 @@ author_profile: true
 
 Here are the links to the major projects I have undertaken. Click on the title for a detailed report.
 
-<img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="50" height="25">
+<img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="200" height="100">
 <br>
 <b> [Compressive Sensing Matrix Design](https://ameyanjarlekar.github.io/files/BTP1.pdf)</b> <br>
  Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle rotation and scaling of images. 
 
 <br>
-<b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1s6hPTey_Io6pHKXVyL2HjT6fy4xf-CgNCyTM-haO-80/edit?usp=sharing)</b> <br>
+<b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1hdJD4Gwf44TlYnsd47t0GMkMeT7G1dl9MJl6wMYlzRo/edit?usp=sharing)</b> <br>
 Video Compression algorithm specifically for Daikin video-database. Uses a Hitomi Camera architecture inspired compressed sensing algorithm.
 
  
