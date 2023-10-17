@@ -9,6 +9,7 @@ Here are the links to the major projects I have undertaken. They are a mixture o
 
 <br>
 <b> [Compressive Sensing Matrix Design](https://ameyanjarlekar.github.io/files/BTP1.pdf)</b> <br>
+![image](https://ameyanjarlekar.github.io/files/res1.PNG)
  Designed sensing matrices by minimizing weighted (determined from training data). Also, proposed an approach to design weights to handle rotation and scaling of images. 
 
 <br>
