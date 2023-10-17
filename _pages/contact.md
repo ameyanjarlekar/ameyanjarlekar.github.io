@@ -23,7 +23,7 @@ Video Compression algorithm specifically for Daikin video database. Uses a Hitom
 <br>
 <br>
 <br>
-<img src="https://ameyanjarlekar.github.io/files/mrt.PNG" width="300" height="150" style="float:left">
+<img src="https://ameyanjarlekar.github.io/files/mrt.PNG" width="300" height="150" style="float:left"> &nbsp &nbsp &nbsp
 <b>[Supervised Detection of Tennis Ball from Camera Stream](https://www.youtube.com/watch?v=EtQ17VXOWpU)</b> <br> 
 Ball detection task required in the autonomous operations of our rover. This was done as a part of the IITB Mars Rover Team for the University Rover Challenge. 
 
