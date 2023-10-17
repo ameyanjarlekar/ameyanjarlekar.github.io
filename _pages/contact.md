@@ -7,7 +7,7 @@ author_profile: true
 
 Here are the links to the major projects I have undertaken. Click on the title for a detailed report.
 
-<img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="300" height="150">
+<img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="300" height="150" float="left">
 <br>
 <b> [Compressive Sensing Matrix Design](https://docs.google.com/presentation/d/1Eght44a12nbU_SFre9YcH2sVNxhyWKRb/edit?usp=sharing&ouid=110561627402890189556&rtpof=true&sd=true)</b> <br>
  Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle the rotation and scaling of images. 
