@@ -7,7 +7,7 @@ author_profile: true
 
 Here are the links to the major projects I have undertaken. Click on the title for a detailed report.
 
-<img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="200" height="100">
+<img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="300" height="150">
 <br>
 <b> [Compressive Sensing Matrix Design](https://docs.google.com/presentation/d/1Eght44a12nbU_SFre9YcH2sVNxhyWKRb/edit?usp=sharing&ouid=110561627402890189556&rtpof=true&sd=true)</b> <br>
  Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle rotation and scaling of images. 
@@ -19,32 +19,9 @@ Video Compression algorithm specifically for Daikin video-database. Uses a Hitom
  
 <br>
 <b>[Blind Compressed Sensing](https://ameyanjarlekar.github.io/files/BCS.pdf)</b> <br> 
- Reviewed various theoretical results of Blind Compressed Sensing and implemented the corresponding algorithm for joint estimation of dictionary and images. Detailed mathematical analysis can be found <b>[here](https://ameyanjarlekar.github.io/files/Mathematical_analysis.pdf)</b>.
- 
-<br>
-<b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
- Denoising algorithm using the residual image. Also, studied and implemented metrics for quality of image denoising without the use of the reference image.
- 
- <br>
-<b>[Target Parameter Estimation from Compressive Measurements](http://ameyanjarlekar.github.io/files/Doppler-Microdoppler.pdf)</b> <br> 
- Parameter estimation of rotating targets through Doppler and Micro-Doppler estimation of corresponding radar signals from their compressive measurements.
+A review of various theoretical results of Blind Compressed Sensing and implementation of the corresponding algorithm for joint estimation of dictionary and images. Detailed mathematical analysis can be found <b>[here](https://ameyanjarlekar.github.io/files/Mathematical_analysis.pdf)</b>.
 
 <br>
 <b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
-Ball detection task required in the autonomous operations of the mars rover. This was done as a part of the IITB Mars Rover Team for the University Rover Challenge. 
+Ball detection task required in the autonomous operations of our rover. This was done as a part of the IITB Mars Rover Team for the University Rover Challenge. 
 
-<br>
-<b>[Image Reconstruction for Parallel MRI](https://github.com/ameyanjarlekar/Grappa-algorithm-for-Parallel-MRI)</b> <br> 
-Modified version of GRAPPA algorithm on Xilinx Zynq-7000 FPGA Board for image reconstruction during Parallel MRI used in the indigenous MRI machine being developed at IIT Bombay
-
-<br>
-<b>[Distortion Correction for Modulation Recognition](http://ameyanjarlekar.github.io/files/signal_distort.pdf)</b> <br> 
-Deployed a CNN model on the "RML2018.10a" dataset for the frequency estimation of various signals and analyzed its performance over various Signal to Noise (SNR) ratio
-
-<br>
-<b>[Microprocessor design](http://ameyanjarlekar.github.io/publications/proc.md)</b> <br> 
-Designed a RISC microprocessor using VHDL
-
-<br>
-<b>[Text Categorization](http://ameyanjarlekar.github.io/files/text_categ.pdf)</b> <br> 
-Classifying various articles from the 20Newsgroups dataset into 20 different categories.
