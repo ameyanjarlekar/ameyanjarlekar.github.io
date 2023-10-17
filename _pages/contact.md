@@ -9,7 +9,7 @@ Here are the links to the major projects I have undertaken. Click on the title f
 
 <img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="200" height="100">
 <br>
-<b> [Compressive Sensing Matrix Design](https://ameyanjarlekar.github.io/files/BTP1.pdf)</b> <br>
+<b> [Compressive Sensing Matrix Design](https://docs.google.com/presentation/d/1Eght44a12nbU_SFre9YcH2sVNxhyWKRb/edit?usp=sharing&ouid=110561627402890189556&rtpof=true&sd=true)</b> <br>
  Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle rotation and scaling of images. 
 
 <br>
@@ -19,7 +19,7 @@ Video Compression algorithm specifically for Daikin video-database. Uses a Hitom
  
 <br>
 <b>[Blind Compressed Sensing](https://ameyanjarlekar.github.io/files/BCS.pdf)</b> <br> 
- Reviewed various theoretical results of Blind Compressed Sensing and implemented the corresponding algorithm for joint estimation of dictionaryand images. Detailed mathematical analysis can be found <b>[here](https://ameyanjarlekar.github.io/files/Mathematical_analysis.pdf)</b>.
+ Reviewed various theoretical results of Blind Compressed Sensing and implemented the corresponding algorithm for joint estimation of dictionary and images. Detailed mathematical analysis can be found <b>[here](https://ameyanjarlekar.github.io/files/Mathematical_analysis.pdf)</b>.
  
 <br>
 <b>[Use of Residuals for Image Denoising](http://ameyanjarlekar.github.io/files/residuals.pdf)</b> <br> 
