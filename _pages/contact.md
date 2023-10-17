@@ -7,10 +7,10 @@ author_profile: true
 
 Here are the links to the major projects I have undertaken. They are a mixture of course projects and technical projects. Click on the title for a detailed report.
 
+![image](https://ameyanjarlekar.github.io/files/res1.PNG)
 <br>
 <b> [Compressive Sensing Matrix Design](https://ameyanjarlekar.github.io/files/BTP1.pdf)</b> <br>
-![image](https://ameyanjarlekar.github.io/files/res1.PNG)
- Designed sensing matrices by minimizing weighted (determined from training data). Also, proposed an approach to design weights to handle rotation and scaling of images. 
+ Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle rotation and scaling of images. 
 
 <br>
 <b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1s6hPTey_Io6pHKXVyL2HjT6fy4xf-CgNCyTM-haO-80/edit?usp=sharing)</b> <br>
