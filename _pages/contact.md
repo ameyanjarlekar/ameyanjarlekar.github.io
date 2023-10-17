@@ -13,7 +13,7 @@ Here are the links to the major projects I have undertaken. Click on the title f
  Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle the rotation and scaling of images. 
 <br>
 <br>
-<img src="https://ameyanjarlekar.github.io/files/vid1.PNG" width="300" height="150" style="float:left">
+<img src="https://ameyanjarlekar.github.io/files/vid1.PNG" width="300" height="150">
 <br>
 <b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1hdJD4Gwf44TlYnsd47t0GMkMeT7G1dl9MJl6wMYlzRo/edit?usp=sharing)</b> <br>
 Video Compression algorithm specifically for Daikin video database. Uses a Hitomi Camera architecture-inspired compressed sensing algorithm.
