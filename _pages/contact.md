@@ -18,6 +18,6 @@ Here are the links to the major projects I have undertaken. Click on the title f
 Video Compression algorithm specifically for Daikin video database. Uses a Hitomi Camera architecture-inspired compressed sensing algorithm.
 
 <br>
-<b>[Supervised Detection of Tennis Ball from Camera Stream](https://github.com/ameyanjarlekar/MRT)</b> <br> 
+<b>[Supervised Detection of Tennis Ball from Camera Stream](https://www.youtube.com/watch?v=EtQ17VXOWpU)</b> <br> 
 Ball detection task required in the autonomous operations of our rover. This was done as a part of the IITB Mars Rover Team for the University Rover Challenge. 
 
