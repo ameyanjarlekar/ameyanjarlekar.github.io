@@ -14,14 +14,10 @@ Here are the links to the major projects I have undertaken. Click on the title f
 <br>
 <br>
 <br>
-<br>
-<br>
 <img src="https://ameyanjarlekar.github.io/files/vid1.PNG" width="300" height="100" style="float:left">
 <br>
 <b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1hdJD4Gwf44TlYnsd47t0GMkMeT7G1dl9MJl6wMYlzRo/edit?usp=sharing)</b> <br>
 Video Compression algorithm specifically for Daikin video database. Uses a Hitomi Camera architecture-inspired compressed sensing algorithm.
-<br>
-<br>
 <br>
 <br>
 <br>
