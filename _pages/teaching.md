@@ -25,7 +25,9 @@ author_profile: true
 
 * Instructor, Machine Learning Bootcamp 
 <br>
+
  <b> Mentoring  </b> <br>
- At IIT Bombay <br>
+ At IIT Bombay
+
 * [DAMP](https://ee-damp.github.io/) (Department Academic Mentor Program) Mentor<br> 
 Responsible for mentoring 6 sophomore students for providing academic guidance and help in other non-academic issues
