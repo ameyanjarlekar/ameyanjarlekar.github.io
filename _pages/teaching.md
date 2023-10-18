@@ -8,11 +8,11 @@ author_profile: true
 
  <b> Teaching </b> <br>
  
- At UIUC 
+##### At UIUC 
 
 * Teaching Assistant, <b>[ECE 490](https://sites.google.com/view/ece490fall23/)</b>: Introduction to Optimization 
 
- At IIT Bombay 
+##### At IIT Bombay 
 
 * Head Teaching Assistant, <b>MA 207</b>: Differential Equations II 
 
@@ -29,7 +29,7 @@ author_profile: true
 
  <b> Mentoring  </b> <br>
  
- At IIT Bombay
+##### At IIT Bombay
 
 * <b>[DAMP](https://ee-damp.github.io/)</b> (Department Academic Mentor Program) Mentor<br> 
 Responsible for mentoring 6 sophomore students for providing academic guidance and help in non-academic issues
