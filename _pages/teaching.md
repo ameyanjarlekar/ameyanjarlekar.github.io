@@ -31,5 +31,5 @@ author_profile: true
  
 ##### At IIT Bombay
 
-* <b>[DAMP](https://ee-damp.github.io/)</b> (Department Academic Mentor Program) Mentor<br> 
-Responsible for mentoring 6 sophomore students for providing academic guidance and help in non-academic issues
+* <b>[DAMP (Department Academic Mentor Program) Mentor](https://ee-damp.github.io/)</b><br> 
+Responsible for mentoring 6 sophomore students for providing academic guidance and help with non-academic issues
