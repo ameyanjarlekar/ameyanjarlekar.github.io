@@ -7,7 +7,7 @@ author_profile: true
 
 Here are the links to the major projects I have undertaken. Click on the title for a detailed description.
 
-<img src="https://ameyanjarlekar.github.io/files/balance.PNG" width="300" height="75" style="float:left">
+<img src="https://ameyanjarlekar.github.io/files/balance.PNG" width="250" height="60" style="float:left">
 <br>
 <b> [Mechanism Design for Heterogenous Differentially Private Data Acquistion](https://docs.google.com/presentation/d/1gjpscdcVE1ZGr-4La6Zbt3UbuOSweC4EQXrMvw0oy94/edit?usp=sharing)</b> 
 Developed a payment mechanism to incentivize privacy-sensitive users to share their data for ML tasks while satisfying their heterogeneous differential privacy constraints
@@ -15,7 +15,7 @@ Developed a payment mechanism to incentivize privacy-sensitive users to share th
 <br>
 <br>
 <br>
-<img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="300" height="75" style="float:left">
+<img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="250" height="60" style="float:left">
 <br>
 <b> [Compressive Sensing Matrix Design](https://docs.google.com/presentation/d/1Eght44a12nbU_SFre9YcH2sVNxhyWKRb/edit?usp=sharing&ouid=110561627402890189556&rtpof=true&sd=true)</b>
 Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle the rotation and scaling of images
@@ -23,7 +23,7 @@ Designed sensing matrices by minimizing weighted triple coherence (determined fr
 <br>
 <br>
 <br>
-<img src="https://ameyanjarlekar.github.io/files/vid1.PNG" width="300" height="75" style="float:left">
+<img src="https://ameyanjarlekar.github.io/files/vid1.PNG" width="250" height="60" style="float:left">
 <br>
 <b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1hdJD4Gwf44TlYnsd47t0GMkMeT7G1dl9MJl6wMYlzRo/edit?usp=sharing)</b>
 Video Compression algorithm specifically for Daikin video database. Uses a Hitomi Camera architecture-inspired compressed sensing algorithm
