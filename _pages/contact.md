@@ -10,7 +10,7 @@ Here are the links to the major projects I have undertaken. Click on the title f
 <img src="https://ameyanjarlekar.github.io/files/balance.PNG" width="300" height="75" style="float:left">
 <br>
 <b> [Mechanism Design for Heterogenous Differentially Private Data Acquistion](https://docs.google.com/presentation/d/1gjpscdcVE1ZGr-4La6Zbt3UbuOSweC4EQXrMvw0oy94/edit?usp=sharing)</b> <br>
-Developed a payment mechanism to incentivize privacy-sensitive users to share their data for ML tasks while satisfying their heterogenous differential privacy constraints
+Developed a payment mechanism to incentivize privacy-sensitive users to share their data for ML tasks while satisfying their heterogeneous differential privacy constraints
 <br>
 <br>
 <br>
