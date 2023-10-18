@@ -7,6 +7,7 @@ author_profile: true
 <br>
 
  <b> Teaching </b> <br>
+ 
  At UIUC 
 
 * Teaching Assistant, <b>[ECE 490](https://sites.google.com/view/ece490fall23/)</b>: Introduction to Optimization 
@@ -27,6 +28,7 @@ author_profile: true
 <br>
 
  <b> Mentoring  </b> <br>
+ 
  At IIT Bombay
 
 * <b>[DAMP](https://ee-damp.github.io/)</b> (Department Academic Mentor Program) Mentor<br> 
