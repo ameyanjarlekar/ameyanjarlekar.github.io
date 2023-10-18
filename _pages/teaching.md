@@ -25,7 +25,6 @@ author_profile: true
 
 <ul> Instructor, Machine Learning Bootcamp </ul>
 <br>
- <br>
  <b> Mentoring  </b> <br>
  At IIT Bombay <br>
 <ul> [DAMP](https://ee-damp.github.io/) (Department Academic Mentor Program) Mentor </ul> <br> 
