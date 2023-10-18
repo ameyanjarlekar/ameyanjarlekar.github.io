@@ -9,7 +9,7 @@ author_profile: true
  <b> Teaching </b> <br>
  At UIUC 
 
-<ul> Teaching Assistant, [ECE 490](https://sites.google.com/view/ece490fall23/): Introduction to Optimization </ul> 
+* Teaching Assistant, [ECE 490](https://sites.google.com/view/ece490fall23/): Introduction to Optimization 
 
  At IIT Bombay 
 
