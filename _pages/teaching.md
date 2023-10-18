@@ -13,19 +13,19 @@ author_profile: true
 
  At IIT Bombay 
 
-<ul> Head Teaching Assistant, MA 207: Differential Equations II </ul> 
+* Head Teaching Assistant, MA 207: Differential Equations II 
 
-<ul> Teaching Assistant, MA 205, Complex Analysis </ul> 
+* Teaching Assistant, MA 205, Complex Analysis 
 
-<ul> Teaching Assistant, MA 111, Calculus II </ul> 
+* Teaching Assistant, MA 111, Calculus II 
 
-<ul> Teaching Assistant, MA 108, Differential Equations I </ul> 
+* Teaching Assistant, MA 108, Differential Equations I 
 
-<ul> Teaching Assistant, PH 108, Electricity and Magnetism </ul>
+* Teaching Assistant, PH 108, Electricity and Magnetism 
 
-<ul> Instructor, Machine Learning Bootcamp </ul>
+* Instructor, Machine Learning Bootcamp 
 <br>
  <b> Mentoring  </b> <br>
  At IIT Bombay <br>
-<ul> [DAMP](https://ee-damp.github.io/) (Department Academic Mentor Program) Mentor </ul> <br> 
+* [DAMP](https://ee-damp.github.io/) (Department Academic Mentor Program) Mentor<br> 
 Responsible for mentoring 6 sophomore students for providing academic guidance and help in other non-academic issues
