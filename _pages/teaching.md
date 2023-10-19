@@ -8,11 +8,11 @@ author_profile: true
 
  <b> Teaching </b> <br>
  
-#### At UIUC 
+### At UIUC 
 
 * Teaching Assistant, <b>[ECE 490](https://sites.google.com/view/ece490fall23/)</b>: Introduction to Optimization 
 
-#### At IIT Bombay 
+### At IIT Bombay 
 
 * Head Teaching Assistant, <b>MA 207</b>: Differential Equations II 
 
