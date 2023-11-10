@@ -11,8 +11,9 @@ redirect_from:
 
 
 # About Me
-* I am a second-year PhD student in the Department of Electrical and Computer Engineering at UIUC advised by [R Srikant](https://sites.google.com/a/illinois.edu/srikant/home) and [Rasoul Etesami](http://etesami.ise.illinois.edu/). Before that, I was working as a Quantitative Researcher in the High-Frequency Equities team at [Quadeye Securities](https://www.quadeye.com/). I have completed my B.Tech (with honors) in the Electrical Engineering Department at Indian Institute of Technology, Bombay with a minor in Computer Science and Engineering.
-* My research interests lie in the intersection of privacy-preserving machine learning and game theory. In particular, I am interested in understanding the impact of privacy-preserving techniques on the performance of machine learning models. Moreover, I am also interested in understanding the theoretical interpretations of machine learning models. Before my PhD, I had worked in compressed sensing and radar signal processing.
+* As a research assistant and PhD candidate in the Department of Electrical and Computer Engineering at UIUC, I explore the intersection of privacy-preserving machine learning and game theory. I am advised by professors [R Srikant](https://sites.google.com/a/illinois.edu/srikant/home) and [Rasoul Etesami](http://etesami.ise.illinois.edu/), who are renowned experts in their fields. My research aims to understand the impact of privacy-preserving techniques on the performance of machine learning models and to provide theoretical interpretations of machine learning models. 
+
+* Before joining UIUC, I worked as a quantitative researcher in the high-frequency equities team at [Quadeye Securities](https://www.quadeye.com/), where I designed profitable and efficient algorithmic trading strategies using finance, statistics, and machine learning. I also have a strong background in electrical engineering and computer science, having completed my B.Tech (with honors) in electrical engineering with a minor in computer science and engineering from IIT Bombay. 
 
 # Updates
 * <b>August, 2022:</b> Started my journey as a PhD student at the University of Illinois at Urbana Champaign
