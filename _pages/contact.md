@@ -35,4 +35,12 @@ Video Compression algorithm specifically for Daikin video database. Uses a Hitom
 <br>
 <b>[Supervised Detection of Tennis Ball from Camera Stream](https://www.youtube.com/watch?v=EtQ17VXOWpU)</b>
 Code implementation for the Ball detection task required in the autonomous operations of our rover. This was done as a part of the IITB Mars Rover Team for the University Rover Challenge
+<br>
+<br>
+<br>
+<br>
+<img src="https://ameyanjarlekar.github.io/files/GA.PNG" width="250" height="60" style="float:left"> &nbsp;
+<br>
+<b>[Genetic Algorithms for Dimensionality Reduction of Hyperspectral Images](https://docs.google.com/presentation/d/1UUlSayPOHk6hpuEGH0dJ5rAxab7q2TexQzGzs3VlP-k/edit#slide=id.p)</b>
+Implementation of a Genetic search-based Algorithm for feature selection of Hyperspectral Images which was further used for the dimensionality reduction of hyperspectral images.
 
