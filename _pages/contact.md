@@ -43,4 +43,12 @@ Code implementation for the Ball detection task required in the autonomous opera
 <br>
 <b>[Genetic Algorithms for Dimensionality Reduction of Hyperspectral Images](https://docs.google.com/presentation/d/1UUlSayPOHk6hpuEGH0dJ5rAxab7q2TexQzGzs3VlP-k/edit#slide=id.p)</b>
 Implementation of a Genetic search-based Algorithm for feature selection of Hyperspectral Images which was further used for the dimensionality reduction of hyperspectral images.
+<br>
+<br>
+<br>
+<br>
+<img src="https://ameyanjarlekar.github.io/files/gan.PNG" width="250" height="60" style="float:left"> &nbsp;
+<br>
+<b>[VAE-GANs for Compressive Medical Image  Recovery](https://docs.google.com/presentation/d/1MgOodWBS2YkH82djXOLKo258HbLqh4d77MoElW-EoXw/edit#slide=id.gd9ebb2f0ae_2_62)</b>
+Code implementation of GAN+VAE network for image reconstruction from undersampled biomedical images. The model framework used is from this [paper](https://128.84.21.199/pdf/1901.11228v1.pdf).
 
