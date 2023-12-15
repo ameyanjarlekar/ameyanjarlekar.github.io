@@ -16,6 +16,7 @@ redirect_from:
 * Before joining UIUC, I worked as a quantitative researcher in the high-frequency equities team at [Quadeye Securities](https://www.quadeye.com/), where I designed profitable and efficient algorithmic trading strategies using finance, statistics, and machine learning. I also have a strong background in electrical engineering and computer science, having completed my B.Tech (with honors) in electrical engineering with a minor in computer science and engineering from IIT Bombay. During my undergrad, I briefly worked in compressed sensing and radar signal processing.
 
 # Updates
+* <b>October, 2023:</b> Passed my Qualifying Exam!
 * <b>August, 2022:</b> Started my journey as a PhD student at the University of Illinois at Urbana Champaign
 * <b>June, 2021:</b> Started working as a Quantitative Researcher in the High Frequency Equities team at Quadeye Securities.
 * <b>August, 2020:</b> Received the Institute Technical Special Mention for contributing to the technical sphere of IIT Bombay through my affiliation with the IITB Mars Rover Team 
