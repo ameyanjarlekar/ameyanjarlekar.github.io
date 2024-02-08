@@ -6,7 +6,7 @@ author_profile: true
 <br>
 
 <b> [Striking a Balance: An Optimal Mechanism Design for Heterogenous Differentially Private Data Acquisition for Logistic Regression](https://arxiv.org/abs/2309.10340)</b> <br>
-Anjarlekar, A., Etesami, R., & Srikant, R. (Submitted to <i>AAAI 24</i>).
+Anjarlekar, A., Etesami, R., & Srikant, R. (Submitted).
 
 <b> [A Weighted Generalized Coherence Approach for Sensing Matrix Design](https://arxiv.org/abs/2110.02645)</b> <br>
 Ameya Anjarlekar and Ajit Rajwade.
