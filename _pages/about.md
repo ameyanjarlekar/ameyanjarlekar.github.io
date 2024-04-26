@@ -19,9 +19,9 @@ redirect_from:
 * <b>March, 2024:</b> Received the prestigious James M. Henderson fellowship 
 * <b>October, 2023:</b> Passed my Qualifying Exam!
 * <b>August, 2022:</b> Started my journey as a PhD student at the University of Illinois at Urbana Champaign
-* <b>June, 2021:</b> Started working as a Quantitative Researcher in the High Frequency Equities team at Quadeye Securities.
+* <b>June, 2021:</b> Started working as a Quantitative Researcher in the High Frequency Equities team at Quadeye Securities
 * <b>August, 2020:</b> Received the Institute Technical Special Mention for contributing to the technical sphere of IIT Bombay through my affiliation with the IITB Mars Rover Team 
-* <b>March, 2020:</b> Journal paper titled ["Generalized Fractional Ambiguity Function and Its Applications"](http://ameyanjarlekar.github.io/files/GFAF.pdf) was accepted to Circuits, Systems and Signal Processing, Springer [(CSSP)](https://www.springer.com/journal/34).
-* <b>February, 2020:</b> Paper titled ["Generalized Fractional Matched Filtering and Its Applications"](http://ameyanjarlekar.github.io/files/GFMF.pdf) was accepted to the National Conference on Communications, 2020. [(NCC 2020)](http://www.ncc2020.iitkgp.ac.in/).
+* <b>March, 2020:</b> Journal paper titled ["Generalized Fractional Ambiguity Function and Its Applications"](http://ameyanjarlekar.github.io/files/GFAF.pdf) was accepted to Circuits, Systems and Signal Processing, Springer [(CSSP)](https://www.springer.com/journal/34)
+* <b>February, 2020:</b> Paper titled ["Generalized Fractional Matched Filtering and Its Applications"](http://ameyanjarlekar.github.io/files/GFMF.pdf) was accepted to the National Conference on Communications, 2020. [(NCC 2020)](http://www.ncc2020.iitkgp.ac.in/)
 * <b>December 2019:</b> Received IRCC award for contribution to research in the field of Radar Signal Processing. 
-* <b>June, 2019:</b> Received the Undergraduate Research Award (URA-01) for contribution to the development of indigenous MRI technology being developed at IIT Bombay.
+* <b>June, 2019:</b> Received the Undergraduate Research Award (URA-01) for contribution to the development of indigenous MRI technology being developed at IIT Bombay
