@@ -51,4 +51,11 @@ Implementation of a Genetic search-based Algorithm for feature selection of Hype
 <br>
 <b>[VAE-GANs for Compressive Medical Image  Recovery](https://docs.google.com/presentation/d/1MgOodWBS2YkH82djXOLKo258HbLqh4d77MoElW-EoXw/edit#slide=id.gd9ebb2f0ae_2_62)</b>
 Code implementation of GAN+VAE network for image reconstruction from undersampled biomedical images. The model framework used is from this <b>[paper](https://128.84.21.199/pdf/1901.11228v1.pdf)</b>.
-
+<br>
+<br>
+<br>
+<br>
+<img src="https://ameyanjarlekar.github.io/files/parallel.PNG" width="250" height="60" style="float:left"> &nbsp;
+<br>
+<b>[Parallel Image Compression](https://docs.google.com/presentation/d/1Yjx8Fbzpm7Z-y1VqHTSskcByAIWQxhNnnPa4jTMvGOw/edit#slide=id.gd9d5518975_3_0)</b>
+Implemented image compression using PCA, DCT, and FFT and studied their computational speedup using OpenMP, MPI, and CUDA. 
