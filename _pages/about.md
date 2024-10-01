@@ -11,8 +11,7 @@ redirect_from:
 
 
 # About Me
-* Hi, I am Ph.D. candidate in the Department of Electrical and Computer Engineering at UIUC advised by professors [R Srikant](https://sites.google.com/a/illinois.edu/srikant/home) and [Rasoul Etesami](http://etesami.ise.illinois.edu/). I explore the intersection of privacy-preserving machine learning and game theory. My research aims to understand the impact of privacy-preserving techniques on the performance of machine learning models and to provide theoretical interpretations of machine learning models. 
-
+* Hi, I am Ph.D. candidate in the Department of Electrical and Computer Engineering at UIUC advised by professors [R Srikant](https://sites.google.com/a/illinois.edu/srikant/home) and [Rasoul Etesami](http://etesami.ise.illinois.edu/). My current research focus is on Reinforcement Learning to provide approximate algorithms for Partially Observable Markov Decision Processes (POMDPs) with applications focused on Inventory Control Systems and Robotics. During my PhD, I have also worked on designing data markets to model the privacy-utility tradeoff in differentially private training of machine learning models.
 * Before joining UIUC, I worked as a quantitative researcher in the high-frequency equities team at [Quadeye Securities](https://www.quadeye.com/), where I designed profitable and efficient algorithmic trading strategies using finance, statistics, and machine learning. I also have a strong background in electrical engineering and computer science, having completed my B.Tech (with honors) in electrical engineering with a minor in computer science and engineering from IIT Bombay. During my undergrad, I briefly worked in compressed sensing and radar signal processing.
 
 # Updates
