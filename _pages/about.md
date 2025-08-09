@@ -15,6 +15,7 @@ redirect_from:
 * Before joining UIUC, I worked as a quantitative researcher in the high-frequency equities team at [Quadeye Securities](https://www.quadeye.com/), where I designed profitable and efficient algorithmic trading strategies using finance, statistics, and machine learning. I also have a strong background in electrical engineering and computer science, having completed my B.Tech (with honors) in electrical engineering with a minor in computer science and engineering from IIT Bombay. During my undergrad, I briefly worked in compressed sensing and radar signal processing.
 
 # Updates
+* <b>August, 2025:</b> Completed a 6 month internship on Trustworthy AI at NVIDIA.
 * <b>September, 2024:</b> Paper accepted for invited talk at IEEE Conference on Decision and Control, 2024 Milan. 
 * <b>March, 2024:</b> Received the prestigious James M. Henderson fellowship 
 * <b>October, 2023:</b> Passed my Qualifying Exam!
