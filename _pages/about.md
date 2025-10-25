@@ -11,15 +11,16 @@ redirect_from:
 
 
 # About Me
-* Hi, I am Ph.D. candidate in the Department of Electrical and Computer Engineering at UIUC advised by professors [R Srikant](https://sites.google.com/a/illinois.edu/srikant/home) and [Rasoul Etesami](http://etesami.ise.illinois.edu/). My current research focus is on Reinforcement Learning to provide approximate algorithms for Partially Observable Markov Decision Processes (POMDPs) with applications focused on Inventory Control Systems and Robotics. During my PhD, I have also worked on designing data markets to model the privacy-utility tradeoff in differentially private training of machine learning models.
-* Before joining UIUC, I worked as a quantitative researcher in the high-frequency equities team at [Quadeye Securities](https://www.quadeye.com/), where I designed profitable and efficient algorithmic trading strategies using finance, statistics, and machine learning. I also have a strong background in electrical engineering and computer science, having completed my B.Tech (with honors) in electrical engineering with a minor in computer science and engineering from IIT Bombay. During my undergrad, I briefly worked in compressed sensing and radar signal processing.
+* Hi, I am Ph.D. candidate in the Department of Electrical and Computer Engineering at UIUC advised by professors [R Srikant](https://sites.google.com/a/illinois.edu/srikant/home) and [Rasoul Etesami](http://etesami.ise.illinois.edu/). My research is focused on enhancing Trustworthy AI by developing frameworks to evaluate and enhance model safety, mitigate privacy risks, and improve explainability. I am currently working on developing approximate algorithms with provable guarantees for Partially Observable Reinforcement Learning (PORL) with a specific focus on applications in Inventory Control Systems and Robotics. I have also worked on designing data markets to model the privacy-utility tradeoff in differentially private training of machine learning models. Recently, I also worked with NVIDIA on developing an interesting LLM unlearning algorithm.
+* Before joining UIUC, I worked as a quantitative researcher in the high-frequency equities team at [Quadeye Securities](https://www.quadeye.com/), where I designed profitable and efficient algorithmic trading strategies using finance, statistics, and machine learning. I also have a strong background in Electrical Engineering and computer science, having completed my B.Tech (with honors) in Electrical Engineering with a minor in Computer Science and Engineering from IIT Bombay. During my undergrad, I briefly worked in compressed sensing and radar signal processing.
 
 # Updates
+* <b>October, 2025:</b> Paper titled Scalable Policy-Based RL Algorithms for POMDPs is accepted at NeurIPS 2025.
 * <b>August, 2025:</b> Completed a 6 month internship on Trustworthy AI at NVIDIA.
-* <b>September, 2024:</b> Paper accepted for invited talk at IEEE Conference on Decision and Control, 2024 Milan. 
+* <b>September, 2024:</b> Paper accepted for invited talk at IEEE Conference on Decision and Control, 2024, Milan. 
 * <b>March, 2024:</b> Received the prestigious James M. Henderson fellowship 
 * <b>October, 2023:</b> Passed my Qualifying Exam!
-* <b>August, 2022:</b> Started my journey as a PhD student at the University of Illinois at Urbana Champaign
+* <b>August, 2022:</b> Started my journey as a PhD student at the University of Illinois Urbana Champaign
 * <b>June, 2021:</b> Started working as a Quantitative Researcher in the High Frequency Equities team at Quadeye Securities
 * <b>August, 2020:</b> Received the Institute Technical Special Mention for contributing to the technical sphere of IIT Bombay through my affiliation with the IITB Mars Rover Team 
 * <b>March, 2020:</b> Journal paper titled ["Generalized Fractional Ambiguity Function and Its Applications"](http://ameyanjarlekar.github.io/files/GFAF.pdf) was accepted to Circuits, Systems and Signal Processing, Springer [(CSSP)](https://www.springer.com/journal/34)
