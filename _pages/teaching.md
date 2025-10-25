@@ -6,7 +6,7 @@ author_profile: true
 ---
 <br>
 
- <b> Teaching </b> <br>
+## Teaching
  
 ### At UIUC 
 
@@ -27,13 +27,15 @@ author_profile: true
 * Instructor, Machine Learning Bootcamp 
 <br>
 
- <b> Mentoring  </b> <br>
+## Mentoring
  
 ### At IIT Bombay
 
 * <b>[DAMP (Department Academic Mentor Program) Mentor](https://ee-damp.github.io/)</b><br> 
 Responsible for mentoring 6 sophomore students for academic guidance and help with non-academic issues
 
- <b> Reviewing  </b> <br>
- Reviewer for AAAI 2026, ICML 2025, CDC 2024, ACC 2025, AISTATS 2025, NeurIPS 2024
- Session Chair for CSL Student Conference 2026 at UIUC.
+## Reviewing
+ 
+ * Reviewer for AAAI 2026, ICML 2025, ACC 2025, AISTATS 2025, CDC 2024, NeurIPS 2024
+ 
+ * Session Chair for CSL Student Conference 2026 at UIUC.
