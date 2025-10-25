@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-<b> [Scalable Policy-Based RL Algorithms for POMDPs]([https://ieeexplore.ieee.org/abstract/document/10886292](https://arxiv.org/abs/2510.06540))</b> <br> 
+<b> [Scalable Policy-Based RL Algorithms for POMDPs](https://arxiv.org/abs/2510.06540)</b> <br> 
 Anjarlekar, A., Etesami, R., & Srikant, R.
 <i>NeurIPS 2025</i>.
 
@@ -13,7 +13,7 @@ Anjarlekar, A., Etesami, R., & Srikant, R.
 Anjarlekar, A., Etesami, R., & Srikant, R.
 <i>2024 IEEE 63rd Conference on Decision and Control (CDC)</i>.
 
-<b> [LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise Injection]([https://arxiv.org/abs/2309.10340](https://arxiv.org/abs/2508.06467))</b> <br>
+<b> [LLM Unlearning using Gradient Ratio-Based Influence Estimation and Noise Injection](https://arxiv.org/abs/2508.06467)</b> <br>
 Anjarlekar, A., Pombra S.
 
 <b> [Striking a Balance: An Optimal Mechanism Design for Heterogenous Differentially Private Data Acquisition for Logistic Regression](https://arxiv.org/abs/2309.10340)</b> <br>
