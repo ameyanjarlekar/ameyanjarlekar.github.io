@@ -9,7 +9,10 @@ Here are the links to the major projects I have undertaken. Click on the title f
 
 <img src="https://ameyanjarlekar.github.io/files/unlearn.webp" width="250" height="60" style="float:left">
 <br>
-<b> [LLM Unlearning via Gradient Ratio-Based Influence Estimation and Noise Injection](https://docs.google.com/presentation/d/1rbPSbBkPCiWBHTbVRUeT_6OXAbX7wOLpUGIuTqdVkYo/edit?slide=id.g37e8e31127c_0_746#slide=id.g37e8e31127c_0_746)</b> 
+<a href="https://docs.google.com/presentation/d/1rbPSbBkPCiWBHTbVRUeT_6OXAbX7wOLpUGIuTqdVkYo/edit?slide=id.g37e8e31127c_0_746#slide=id.g37e8e31127c_0_746" 
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   LLM Unlearning via Gradient Ratio-Based Influence Estimation and Noise Injection
+</a>
 
 Proposed and developed a noise-injected selective LLM fine-tuning algorithm to enable targeted machine unlearning by optimizing a loss function that penalizes unsafe responses while preserving model utility through a regularization term. This was work done at NVIDIA.
 <br>
@@ -18,7 +21,10 @@ Proposed and developed a noise-injected selective LLM fine-tuning algorithm to e
 <br>
 <img src="https://ameyanjarlekar.github.io/files/balance.PNG" width="250" height="60" style="float:left">
 <br>
-<b> [Mechanism Design for Heterogenous Differentially Private Data Acquistion](https://docs.google.com/presentation/d/1gjpscdcVE1ZGr-4La6Zbt3UbuOSweC4EQXrMvw0oy94/edit?usp=sharing)</b> 
+<a href="https://docs.google.com/presentation/d/1gjpscdcVE1ZGr-4La6Zbt3UbuOSweC4EQXrMvw0oy94/edit?usp=sharing"
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   Mechanism Design for Heterogeneous Differentially Private Data Acquisition
+</a>
 
 Developed a payment mechanism to incentivize privacy-sensitive users to share their data for ML tasks while satisfying their heterogeneous differential privacy constraints
 <br>
@@ -27,7 +33,10 @@ Developed a payment mechanism to incentivize privacy-sensitive users to share th
 <br>
 <img src="https://ameyanjarlekar.github.io/files/res1.PNG" width="250" height="60" style="float:left">
 <br>
-<b> [Compressive Sensing Matrix Design](https://docs.google.com/presentation/d/1Eght44a12nbU_SFre9YcH2sVNxhyWKRb/edit?usp=sharing&ouid=110561627402890189556&rtpof=true&sd=true)</b>
+<a href="https://docs.google.com/presentation/d/1Eght44a12nbU_SFre9YcH2sVNxhyWKRb/edit?usp=sharing&ouid=110561627402890189556&rtpof=true&sd=true"
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   Compressive Sensing Matrix Design
+</a>
 
 Designed sensing matrices by minimizing weighted triple coherence (determined from training data). Also, proposed an approach to design weights to handle the rotation and scaling of images
 <br>
