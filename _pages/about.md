@@ -17,11 +17,11 @@ redirect_from:
 * I completed my B.Tech (with honors) in Electrical Engineering with a minor in Computer Science and Engineering from IIT Bombay. During my undergrad, I worked in compressed sensing and radar signal processing.
 
 # Updates
-* <b>October, 2025:</b> Paper titled Scalable Policy-Based RL Algorithms for POMDPs is accepted at NeurIPS 2025.
+* <b>October, 2025:</b> Paper titled [Scalable Policy-Based RL Algorithms for POMDPs](https://arxiv.org/abs/2510.06540) is accepted at [NeurIPS 2025](https://neurips.cc/).
 * <b>August, 2025:</b> Completed a 6 month internship on Trustworthy AI at NVIDIA.
 * <b>April, 2025:</b> Received Robert T Chien Memorial Award by UIUC for excellence in research.
-* <b>September, 2024:</b> Paper accepted for invited talk at IEEE Conference on Decision and Control, 2024, Milan. 
-* <b>March, 2024:</b> Received the prestigious James M. Henderson fellowship .
+* <b>September, 2024:</b> Paper accepted for invited talk at [IEEE Conference on Decision and Control, 2024, Milan](https://cdc2024.ieeecss.org/). 
+* <b>March, 2024:</b> Received the prestigious James M. Henderson fellowship.
 * <b>October, 2023:</b> Passed my Qualifying Exam!
 * <b>August, 2022:</b> Started my journey as a PhD student at the University of Illinois Urbana Champaign
 * <b>June, 2021:</b> Started working as a Quantitative Researcher in the High Frequency Equities team at Quadeye Securities
