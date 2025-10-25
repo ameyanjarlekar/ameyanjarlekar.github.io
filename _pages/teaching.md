@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching & Mentoring"
+title: "Services"
 permalink: /teaching/
 author_profile: true
 ---
@@ -33,3 +33,7 @@ author_profile: true
 
 * <b>[DAMP (Department Academic Mentor Program) Mentor](https://ee-damp.github.io/)</b><br> 
 Responsible for mentoring 6 sophomore students for academic guidance and help with non-academic issues
+
+ <b> Reviewing  </b> <br>
+ Reviewer for AAAI 2026, ICML 2025, CDC 2024, ACC 2025, AISTATS 2025, NeurIPS 2024
+ Session Chair for CSL Student Conference 2026 at UIUC.
