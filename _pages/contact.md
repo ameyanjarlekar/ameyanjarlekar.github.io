@@ -7,6 +7,14 @@ author_profile: true
 
 Here are the links to the major projects I have undertaken. Click on the title for a detailed description.
 
+<img src="https://ameyanjarlekar.github.io/files/unlearn.webp" width="250" height="60" style="float:left">
+<br>
+<b> [LLM Unlearning via Gradient Ratio-Based Influence Estimation and Noise Injection](https://docs.google.com/presentation/d/1rbPSbBkPCiWBHTbVRUeT_6OXAbX7wOLpUGIuTqdVkYo/edit?slide=id.g37e8e31127c_0_746#slide=id.g37e8e31127c_0_746)</b> 
+Proposed and developed a noise-injected selective LLM fine-tuning algorithm to enable targeted machine unlearning by optimizing a loss function that penalizes unsafe responses while preserving model utility through a regularization term, aimed at mitigating unsafe responses and reducing potential copyright violations. This was work done at NVIDIA.
+<br>
+<br>
+<br>
+<br>
 <img src="https://ameyanjarlekar.github.io/files/balance.PNG" width="250" height="60" style="float:left">
 <br>
 <b> [Mechanism Design for Heterogenous Differentially Private Data Acquistion](https://docs.google.com/presentation/d/1gjpscdcVE1ZGr-4La6Zbt3UbuOSweC4EQXrMvw0oy94/edit?usp=sharing)</b> 
@@ -51,6 +59,14 @@ Implementation of a Genetic search-based Algorithm for feature selection of Hype
 <br>
 <b>[VAE-GANs for Compressive Medical Image  Recovery](https://docs.google.com/presentation/d/1MgOodWBS2YkH82djXOLKo258HbLqh4d77MoElW-EoXw/edit#slide=id.gd9ebb2f0ae_2_62)</b>
 Code implementation of GAN+VAE network for image reconstruction from undersampled biomedical images. The model framework used is from this <b>[paper](https://128.84.21.199/pdf/1901.11228v1.pdf)</b>.
+<br>
+<br>
+<br>
+<br>
+<img src="https://ameyanjarlekar.github.io/files/unlearn.webp" width="250" height="60" style="float:left">
+<br>
+<b> [Image Reconstruction for Parallel MRI](https://github.com/ameyanjarlekar/Grappa-algorithm-for-Parallel-MRI/blob/master/GRAPPA_Readme.pdf)</b> 
+Implemented a modified version of GRAPPA algorithm on Xilinx Zynq-7000 FPGA Board for image reconstruction used in the indigenous MRI machine at IIT Bombay. This is set to be [installed](https://x.com/IndianTechGuide/status/1904760297912480048) at AIIMS Delhi around October 2025 for trials.
 <br>
 <br>
 <br>
