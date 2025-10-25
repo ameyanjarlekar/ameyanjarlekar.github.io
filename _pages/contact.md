@@ -14,7 +14,7 @@ Here are the links to the major projects I have undertaken. Click on the title f
    LLM Unlearning via Gradient Ratio-Based Influence Estimation and Noise Injection
 </a>
 
-Proposed and developed a noise-injected selective LLM fine-tuning algorithm to enable targeted machine unlearning by optimizing a loss function that penalizes unsafe responses while preserving model utility through a regularization term. This was work done at NVIDIA.
+Proposed and developed a noise-injected selective LLM fine-tuning algorithm to enable targeted machine unlearning. This was work done at NVIDIA.
 <br>
 <br>
 <br>
@@ -45,7 +45,10 @@ Designed sensing matrices by minimizing weighted triple coherence (determined fr
 <br>
 <img src="https://ameyanjarlekar.github.io/files/vid1.PNG" width="250" height="60" style="float:left">
 <br>
-<b> [Video Compression for efficient Remote Support video storage and retrieval](https://docs.google.com/presentation/d/1hdJD4Gwf44TlYnsd47t0GMkMeT7G1dl9MJl6wMYlzRo/edit?usp=sharing)</b>
+<a href="https://docs.google.com/presentation/d/1hdJD4Gwf44TlYnsd47t0GMkMeT7G1dl9MJl6wMYlzRo/edit?usp=sharing"
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   Video Compression for Efficient Remote Support Video Storage and Retrieval
+</a>
 
 Video Compression algorithm specifically for Daikin video database. Uses a Hitomi Camera architecture-inspired compressed sensing algorithm
 <br>
@@ -54,7 +57,10 @@ Video Compression algorithm specifically for Daikin video database. Uses a Hitom
 <br>
 <img src="https://ameyanjarlekar.github.io/files/mrt.PNG" width="250" height="60" style="float:left"> &nbsp;
 <br>
-<b>[Supervised Detection of Tennis Ball from Camera Stream](https://www.youtube.com/watch?v=EtQ17VXOWpU)</b>
+<a href="https://www.youtube.com/watch?v=EtQ17VXOWpU"
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   Supervised Detection of Tennis Ball from Camera Stream
+</a>
 
 Code implementation for the Ball detection task required in the autonomous operations of our rover. This was done as a part of the IITB Mars Rover Team for the University Rover Challenge
 <br>
@@ -63,7 +69,10 @@ Code implementation for the Ball detection task required in the autonomous opera
 <br>
 <img src="https://ameyanjarlekar.github.io/files/GA5.PNG" width="250" height="60" style="float:left"> &nbsp;
 <br>
-<b>[Genetic Algorithms for Dimensionality Reduction of Hyperspectral Images](https://docs.google.com/presentation/d/1UUlSayPOHk6hpuEGH0dJ5rAxab7q2TexQzGzs3VlP-k/edit#slide=id.p)</b>
+<a href="https://docs.google.com/presentation/d/1UUlSayPOHk6hpuEGH0dJ5rAxab7q2TexQzGzs3VlP-k/edit#slide=id.p"
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   Genetic Algorithms for Dimensionality Reduction of Hyperspectral Images
+</a>
 
 Implementation of a Genetic search-based Algorithm for feature selection of Hyperspectral Images which was further used for the dimensionality reduction of hyperspectral images.
 <br>
@@ -72,24 +81,36 @@ Implementation of a Genetic search-based Algorithm for feature selection of Hype
 <br>
 <img src="https://ameyanjarlekar.github.io/files/gan.PNG" width="250" height="60" style="float:left"> &nbsp;
 <br>
-<b>[VAE-GANs for Compressive Medical Image  Recovery](https://docs.google.com/presentation/d/1MgOodWBS2YkH82djXOLKo258HbLqh4d77MoElW-EoXw/edit#slide=id.gd9ebb2f0ae_2_62)</b>
+<a href="https://docs.google.com/presentation/d/1MgOodWBS2YkH82djXOLKo258HbLqh4d77MoElW-EoXw/edit#slide=id.gd9ebb2f0ae_2_62"
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   VAE-GANs for Compressive Medical Image Recovery
+</a>
 
-Code implementation of GAN+VAE network for image reconstruction from undersampled biomedical images. The model framework used is from this <b>[paper](https://128.84.21.199/pdf/1901.11228v1.pdf)</b>.
+Code implementation of GAN+VAE network for image reconstruction from undersampled biomedical images.
 <br>
 <br>
 <br>
 <br>
 <img src="https://ameyanjarlekar.github.io/files/MRI.jpg" width="250" height="60" style="float:left">
 <br>
-<b> [Image Reconstruction for Parallel MRI](https://github.com/ameyanjarlekar/Grappa-algorithm-for-Parallel-MRI/blob/master/GRAPPA_Readme.pdf)</b> 
+<a href="https://github.com/ameyanjarlekar/Grappa-algorithm-for-Parallel-MRI/blob/master/GRAPPA_Readme.pdf"
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   Image Reconstruction for Parallel MRI
+</a>
 
-Implemented a modified version of GRAPPA algorithm on Xilinx Zynq-7000 FPGA Board for image reconstruction used in the indigenous MRI machine at IIT Bombay. This is set to be <b>[installed](https://x.com/IndianTechGuide/status/1904760297912480048) </b> at AIIMS Delhi around October 2025 for trials.
+Implemented a modified version of GRAPPA algorithm on Xilinx Zynq-7000 FPGA Board for image reconstruction used in the indigenous MRI machine at IIT Bombay. This is set to be <a href="https://x.com/IndianTechGuide/status/1904760297912480048"
+   style="color:#1e90ff; text-decoration:underline;">
+   installed
+</a> at AIIMS Delhi around October 2025 for trials.
 <br>
 <br>
 <br>
 <br>
 <img src="https://ameyanjarlekar.github.io/files/parallel.PNG" width="250" height="60" style="float:left"> &nbsp;
 <br>
-<b>[Parallel Image Compression](https://docs.google.com/presentation/d/1Yjx8Fbzpm7Z-y1VqHTSskcByAIWQxhNnnPa4jTMvGOw/edit#slide=id.gd9d5518975_3_0)</b>
+<a href="https://docs.google.com/presentation/d/1Yjx8Fbzpm7Z-y1VqHTSskcByAIWQxhNnnPa4jTMvGOw/edit#slide=id.gd9d5518975_3_0"
+   style="color:#1e90ff; text-decoration:underline; font-weight:bold;">
+   Parallel Image Compression
+</a>
 
 Implemented image compression using PCA, DCT, and FFT and studied their computational speedup using OpenMP, MPI, and CUDA. 
