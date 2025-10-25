@@ -74,7 +74,7 @@ Code implementation of GAN+VAE network for image reconstruction from undersample
 <br>
 <b> [Image Reconstruction for Parallel MRI](https://github.com/ameyanjarlekar/Grappa-algorithm-for-Parallel-MRI/blob/master/GRAPPA_Readme.pdf)</b> 
 
-Implemented a modified version of GRAPPA algorithm on Xilinx Zynq-7000 FPGA Board for image reconstruction used in the indigenous MRI machine at IIT Bombay. This is set to be [installed](https://x.com/IndianTechGuide/status/1904760297912480048) at AIIMS Delhi around October 2025 for trials.
+Implemented a modified version of GRAPPA algorithm on Xilinx Zynq-7000 FPGA Board for image reconstruction used in the indigenous MRI machine at IIT Bombay. This is set to be <b>[installed](https://x.com/IndianTechGuide/status/1904760297912480048) </b> at AIIMS Delhi around October 2025 for trials.
 <br>
 <br>
 <br>
