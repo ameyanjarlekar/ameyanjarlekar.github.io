@@ -11,7 +11,7 @@ Here are the links to the major projects I have undertaken. Click on the title f
 <br>
 <b> [LLM Unlearning via Gradient Ratio-Based Influence Estimation and Noise Injection](https://docs.google.com/presentation/d/1rbPSbBkPCiWBHTbVRUeT_6OXAbX7wOLpUGIuTqdVkYo/edit?slide=id.g37e8e31127c_0_746#slide=id.g37e8e31127c_0_746)</b> 
 
-Proposed and developed a noise-injected selective LLM fine-tuning algorithm to enable targeted machine unlearning by optimizing a loss function that penalizes unsafe responses while preserving model utility through a regularization term, aimed at mitigating unsafe responses and reducing potential copyright violations. This was work done at NVIDIA.
+Proposed and developed a noise-injected selective LLM fine-tuning algorithm to enable targeted machine unlearning by optimizing a loss function that penalizes unsafe responses while preserving model utility through a regularization term. This was work done at NVIDIA.
 <br>
 <br>
 <br>
