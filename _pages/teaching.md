@@ -10,6 +10,8 @@ author_profile: true
  
 ### At UIUC 
 
+* Teaching Assistant, <b>[IE 421](https://courses.illinois.edu/schedule/2026/fall/IE/421)</b>: High Frequency Trading Technology 
+
 * Teaching Assistant, <b>[ECE 490](https://sites.google.com/view/ece490fall23/)</b>: Introduction to Optimization 
 
 ### At IIT Bombay 
